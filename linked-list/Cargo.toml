@@ -1,0 +1,7 @@
+[package]
+name = "linked-list"
+version = "0.1.0"
+authors = ["Ivan Yurchenko"]
+edition = "2018"
+
+[dependencies]
