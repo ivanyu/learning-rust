@@ -1,6 +1,7 @@
 [workspace]
 
 members = [
-    "linked-list"
+    "linked-list",
+    "binary-tree"
 ]
 
